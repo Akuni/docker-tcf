@@ -16,9 +16,9 @@ Based on The Cookie Factory (https://github.com/polytechnice-si/4A_ISA_TheCookie
 
 ### Team
  There are 3 contributors to this project. 
-Andre Julien (https://github.com/JulienAndre26)
-Boucher Adrien (https://github.com/Adspartan)
-Sarroche Nicolas (https://github.com/Akuni)
+* Andre Julien (https://github.com/JulienAndre26)
+* Boucher Adrien (https://github.com/Adspartan)
+* Sarroche Nicolas (https://github.com/Akuni)
 
 
 
