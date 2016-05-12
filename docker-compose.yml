@@ -1,0 +1,17 @@
+version: "2"
+
+services:
+
+  dotnet:
+    image: dotnet
+
+    ports:
+      - "9090:9090"
+    network_mode: "host"
+
+  backend:
+    image: j2e
+
+    ports:
+      - "8080:8080"
+    network_mode: "host"

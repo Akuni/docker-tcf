@@ -1,0 +1,11 @@
+fr/unice/polytech/isa/tcf/business/CustomerRegistryTest.class
+fr/unice/polytech/isa/tcf/business/CashierTest.class
+fr/unice/polytech/isa/tcf/persistence/ConstraintsTest.class
+fr/unice/polytech/isa/tcf/business/CartTest.class
+fr/unice/polytech/isa/tcf/business/KitchenTest.class
+fr/unice/polytech/isa/tcf/persistence/StorageTest.class
+fr/unice/polytech/isa/tcf/business/CatalogueTest.class
+arquillian/AbstractTCFTest.class
+fr/unice/polytech/isa/tcf/integration/PaymentIntegrationTest.class
+fr/unice/polytech/isa/tcf/persistence/CascadingTest.class
+fr/unice/polytech/isa/tcf/persistence/LazyLoadingTest.class
